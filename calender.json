@@ -1,0 +1,548 @@
+{
+  	"2021": 
+    {
+      	"01": 
+      	{
+        	"name": "January",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [3,10,17,24,31],
+          	"holiday": [14,28],
+          	"holidayReason": ["Thai Pongal Day", "Duruthu Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"02": 
+        {
+        	"name": "February",
+          	"noOfDays": 28,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 22,
+          	"sundays": [7,14,21,28],
+          	"holiday": [4,26],
+          	"holidayReason": ["National Day", "Navam Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"03": 
+        {
+        	"name": "March",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 25,
+          	"sundays": [7,14,21,28],
+          	"holiday": [11,28],
+          	"holidayReason": ["Mahasivarathri Day","Madin Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"04": 
+        {
+        	"name": "April",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 4,
+          	"noOfWorkDays": 22,
+          	"sundays": [4,11,18,25],
+          	"holiday": [2,13,14,26],
+          	"holidayReason": ["Good Friday", "Sinhala & Tamil New Year Eve", "Sinhala & Tamil New Year Day", "Mahasivarathri Day","Bak Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"05": 
+        {
+        	"name": "May",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 4,
+          	"noOfWorkDays": 22,
+          	"sundays": [2,9,16,23,30],
+          	"holiday": [1,13,26,27],
+          	"holidayReason": ["May Day", "Idul Fitr","Vesak Full Moon Poya Day", "Day After Vesak Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"06": 
+        {
+        	"name": "June",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 1,
+          	"noOfWorkDays": 25,
+          	"sundays": [6,13,20,27],
+          	"holiday": [24],
+          	"holidayReason": ["Poson Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"07": 
+        {
+        	"name": "July",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 25,
+          	"sundays": [4,11,18,25],
+          	"holiday": [20,23],
+          	"holidayReason": ["Eid al-Adha", "Esala Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"08": 
+        {
+        	"name": "August",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 1,
+          	"noOfWorkDays": 25,
+          	"sundays": [1,8,15,22,29],
+          	"holiday": [22],
+          	"holidayReason": ["Nikini Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"09": 
+        {
+        	"name": "September",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 1,
+          	"noOfWorkDays": 25,
+          	"sundays": [5,12,19,26],
+          	"holiday": [20],
+          	"holidayReason": ["Binara Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"10": 
+        {
+        	"name": "October",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [3,10,17,24,31],
+          	"holiday": [19,20],
+          	"holidayReason": ["Eid al-Adha", "Vap Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"11": 
+        {
+        	"name": "November",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [7,14,21,28],
+          	"holiday": [4,18],
+          	"holidayReason": ["Eid al-Adha", "Ill Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"12": 
+        {
+        	"name": "December",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 25,
+          	"sundays": [5,12,19,26],
+          	"holiday": [18,25],
+          	"holidayReason": ["Unduvap Full Moon Poya Day", "Eid al-Adha"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	
+    },
+
+    "2022":
+    {
+      	"01": 
+      	{
+        	"name": "January",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+
+          	"noOfWorkDays": 24,
+          	"sundays": [2,9,16,23,30],
+          	"holiday": [17,28],
+          	"holidayReason": ["Thai Pongal Day", "Duruthu Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"02": 
+        {
+        	"name": "February",
+          	"noOfDays": 28,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+
+          	"noOfWorkDays": 22,
+          	"sundays": [6,13,20,27],
+          	"holiday": [4,16],
+          	"holidayReason": ["National Day", "Navam Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"03": 
+        {
+        	"name": "March",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+
+          	"noOfWorkDays": 25,
+          	"sundays": [6,13,20,27],
+          	"holiday": [1,17],
+          	"holidayReason": ["Mahasivarathri Day","Madin Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"04": 
+        {
+        	"name": "April",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 4,
+
+          	"noOfWorkDays": 22,
+          	"sundays": [3,10,17,24],
+          	"holiday": [13,14,15,16,17],
+          	"holidayReason": ["Sinhala & Tamil New Year Eve", "Sinhala & Tamil New Year Day", "Good Friday", "Bak Full Moon Poya Day", "Mahasivarathri Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"05": 
+        {
+        	"name": "May",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 4,
+
+          	"noOfWorkDays": 24,
+          	"sundays": [1,8,15,22,29],
+          	"holiday": [1,3,15,16],
+          	"holidayReason": ["May Day", "Idul Fitr","Vesak Full Moon Poya Day", "Day After Vesak Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"06": 
+        {
+        	"name": "June",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 1,
+
+          	"noOfWorkDays": 25,
+          	"sundays": [5,12,19,26],
+          	"holiday": [14],
+          	"holidayReason": ["Poson Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"07": 
+        {
+        	"name": "July",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+
+          	"noOfWorkDays": 25,
+          	"sundays": [3,10,17,24,31],
+          	"holiday": [10,13],
+          	"holidayReason": ["Eid al-Adha", "Esala Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"08": 
+        {
+        	"name": "August",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 1,
+
+          	"noOfWorkDays": 26,
+          	"sundays": [7,14,21,28],
+          	"holiday": [11],
+          	"holidayReason": ["Nikini Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"09": 
+        {
+        	"name": "September",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 1,
+
+          	"noOfWorkDays": 25,
+          	"sundays": [4,11,18,25],
+          	"holiday": [10],
+          	"holidayReason": ["Binara Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"10": 
+        {
+        	"name": "October",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+
+          	"noOfWorkDays": 25,
+          	"sundays": [2,9,16,23,30],
+          	"holiday": [9,24],
+          	"holidayReason": [ "Vap Full Moon Poya Day", "Deepavali"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"11": 
+        {
+        	"name": "November",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+
+          	"noOfWorkDays": 25,
+          	"sundays": [6,13,20,27],
+          	"holiday": [7],
+          	"holidayReason": ["Ill Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	,
+
+      	"12": 
+        {
+        	"name": "December",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 25,
+          	"sundays": [4,11,18,25],
+          	"holiday": [7,25],
+          	"holidayReason": ["Unduvap Full Moon Poya Day", "Christmas Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	
+    },
+	"2023":
+    {
+      	"01": 
+      	{
+        	"name": "January",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [1,8,15,22,29],
+          	"holiday": [6,15],
+          	"holidayReason": ["Duruthu Full Moon Poya Day", "Thai Pongal Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"02": 
+        {
+        	"name": "February",
+          	"noOfDays": 28,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 3,
+          	"noOfWorkDays": 22,
+          	"sundays": [5,12,19,26],
+          	"holiday": [4,5,18],
+          	"holidayReason": ["National Day", "Navam Full Moon Poya Day", "Mahasivarathri Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"03": 
+        {
+        	"name": "March",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 1,
+          	"noOfWorkDays": 26,
+          	"sundays": [5,12,19,26],
+          	"holiday": [6],
+          	"holidayReason": ["Madin Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"04": 
+        {
+        	"name": "April",
+          	"noOfDays": 30,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 5,
+          	"noOfWorkDays": 20,
+          	"sundays": [2,9,16,23,30],
+          	"holiday": [5,7,13,14,22],
+          	"holidayReason": ["Bak Full Moon Poya Day", "Good Friday", "Sinhala & Tamil New Year Eve", "Sinhala & Tamil New Year Day", "Ramazan Festival Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"05": 
+        {
+        	"name": "May",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 4,
+          	"noOfWorkDays": 24,
+          	"sundays": [7,14,21,28],
+          	"holiday": [1,5,6],
+          	"holidayReason": ["May Day", "Vesak Full Moon Poya Day", "Day After Vesak Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"06": 
+        {
+        	"name": "June",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [4,11,18,25],
+          	"holiday": [3,29],
+          	"holidayReason": ["Poson Full Moon Poya Day", "Hadji Festival Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"07": 
+        {
+        	"name": "July",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 1,
+          	"noOfWorkDays": 25,
+          	"sundays": [2,9,16,23,30],
+          	"holiday": [10,13],
+          	"holidayReason": ["Adhi Esala Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"08": 
+        {
+        	"name": "August",
+          	"noOfDays": 31,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 25,
+          	"sundays": [6,13,20,27],
+          	"holiday": [1,30],
+          	"holidayReason": ["Esala Full Moon Poya Day", "Nikini Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"09": 
+        {
+        	"name": "September",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [3,10,17,24],
+          	"holiday": [28,29],
+          	"holidayReason": ["Holy Prophet's Birthday", "Binara Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"10": 
+        {
+        	"name": "October",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 1,
+          	"noOfWorkDays": 25,
+          	"sundays": [1,8,15,22,29],
+          	"holiday": [28],
+          	"holidayReason": [ "Vap Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"11": 
+        {
+        	"name": "November",
+          	"noOfDays": 30,
+          	"noOfSundays": 4,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 26,
+          	"sundays": [5,12,19,26],
+          	"holiday": [12,26],
+          	"holidayReason": ["Deepavali Festival Day", "Ill Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        },
+
+      	"12": 
+        {
+        	"name": "December",
+          	"noOfDays": 31,
+          	"noOfSundays": 5,
+          	"noOfSpesialDays": 2,
+          	"noOfWorkDays": 24,
+          	"sundays": [3,10,17,24,31],
+          	"holiday": [25,26],
+          	"holidayReason": ["Christmas Day", "Unduvap Full Moon Poya Day"],
+          	"noteDay": [],
+          	"note" : []
+        }
+      	
+    }
+  	
+}
